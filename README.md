@@ -1,1 +1,5 @@
 # webb24-js2-slutprojekt-edwin-antonsson
+
+När du öppnar hemsidan kommer du att se en lista av tillgängliga produkter. Du kan använda sök-funktionen för att hitta en produkt efter namn eller sortera dem efter pris. För att välja en produkt klickar du på knappen "Add to Cart". Om produkten inte finns i lager kommer du inte att kunna lägga till mer än vad som finns tillgängligt. Du kan klicka på knappen "Cart" i toppen av skärmen för att se alla produkter du har lagt till. Här hittar du en överblick av allt som lagts till i din varukorg. Efter det  kan du antingen klicka på knappen "Complete Purchase", vilket uppdaterar lagersaldot och ger dig ett meddelande att din beställning har godkänts, eller så trycker du på "Empty Cart", vilket tömmer din varukorg och tar dig automatiskt tillbaka till produktsidan.
+
+Om det skulle vara så att ett problem uppstår och du av någon anledning har problem med att ansluta till servern, får du ett meddelande av att sidan laddar. Om kopplingen hittas, visas hemsidan som vanligt, om ingen anslutning hittas, får du ett felmeddelande att servern inte är tillgänglig just nu.

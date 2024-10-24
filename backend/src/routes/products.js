@@ -1,3 +1,6 @@
+// Jag hade tidigare min search/sort functionality i min Products.jsx frontend fil, men nu har jag skickat back den till denna filen
+// för mer korrekt separering av kodfunktioner.
+
 import express from 'express';
 import fs from 'fs';
 import path from 'path';

@@ -1,3 +1,6 @@
+//För att hålla min backend-kod enkel att läsa ändrade jag den så att server.js endast har denna simpla bas-koden och istället har 2 sidogrenar
+//som hanterar min purchase-handling och mina products/search/sort funktioner.
+
 import express from 'express';
 import path from 'path';
 import cors from 'cors';
