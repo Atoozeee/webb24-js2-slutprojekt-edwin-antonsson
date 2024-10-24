@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Wingspan",
+    "price": 699,
+    "stock": 23,
+    "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gloomhaven",
+    "price": 1099,
+    "stock": 10,
+    "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__itemrep/img/0IdBRA_G-ZdrNaxI4Z1LPQMZD0I=/fit-in/246x300/filters:strip_icc()/pic2437871.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wingspan: Oceania Expansion",
+    "price": 369,
+    "stock": 48,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/137/137626.jpg?bust=1601647071&itok=2DVuZrKo"
+  },
+  {
+    "id": 4,
+    "name": "Frosthaven",
+    "price": 2999,
+    "stock": 9,
+    "image": "https://www.sfbok.se/sites/default/files/styles/large/sfbok/sfbokbilder/730/730712.jpg?bust=1718108725&itok=USHMhSHC"
+  },
+  {
+    "id": 5,
+    "name": "Terraforming Mars",
+    "price": 719,
+    "stock": 135,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/162/162063.jpg?bust=1473239094&itok=w_eb-lv_"
+  },
+  {
+    "id": 6,
+    "name": "Catan",
+    "price": 499,
+    "stock": 39,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/170/170983.jpg?bust=1495541967&itok=OF4C43rS"
+  },
+  {
+    "id": 7,
+    "name": "Scythe: Expeditions",
+    "price": 879,
+    "stock": 12,
+    "image": "https://www.sfbok.se/sites/default/files/styles/large/sfbok/sfbokbilder/719/719511.jpg?bust=1675853531&itok=2bo_YrZy"
+  },
+  {
+    "id": 8,
+    "name": "Codenames",
+    "price": 299,
+    "stock": 75,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/149/149616.jpg?bust=1444659510&itok=DZdo_c3w"
+  },
+  {
+    "id": 9,
+    "name": "7 Wonders: Architects",
+    "price": 479,
+    "stock": 16,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/406/406167.jpg?bust=1654175694&itok=7prJmIuz"
+  },
+  {
+    "id": 10,
+    "name": "7 Wonders",
+    "price": 499,
+    "stock": 101,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/120/120851.jpg?bust=1599573178&itok=GQIfrp-w"
+  },
+  {
+    "id": 11,
+    "name": "7 Wonders: Duel",
+    "price": 329,
+    "stock": 3,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/156/156348.jpg?bust=1459329128&itok=xSsOo54L"
+  },
+  {
+    "id": 12,
+    "name": "Not Enough Mana",
+    "price": 579,
+    "stock": 17,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/729/729150.jpg?bust=1713169548&itok=pgHmRGWl"
+  },
+  {
+    "id": 13,
+    "name": "Dune: War for Arrakis",
+    "price": 1819,
+    "stock": 2,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/727/727527.jpg?bust=1710231267&itok=B7ywp9Xz"
+  },
+  {
+    "id": 14,
+    "name": "Pandemic",
+    "price": 399,
+    "stock": 9,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/169/169689.jpg?bust=1498817461&itok=10ucBKv5"
+  },
+  {
+    "id": 15,
+    "name": "Scythe",
+    "price": 999,
+    "stock": 0,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/160/160349.jpg?bust=1471337736&itok=9RTHL2G5"
+  },
+  {
+    "id": 16,
+    "name": "Nemesis: Lockdown",
+    "price": 1599,
+    "stock": 13,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/213/213869.jpg?bust=1618578611&itok=pRuiX8t_"
+  },
+  {
+    "id": 17,
+    "name": "Brass: Birmingham",
+    "price": 959,
+    "stock": 6,
+    "image": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/188/188331.jpg?bust=1538731885&itok=3hx9uJJf"
+  }
+]
